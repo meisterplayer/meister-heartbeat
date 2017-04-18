@@ -1,0 +1,12 @@
+{
+  "name": "meister-heartbeat",
+  "version": "1.0.2",
+  "description": "Small manager around setInterval",
+  "main": "index.js",
+  "keywords": [
+    "heartbeat",
+    "interval"
+  ],
+  "author": "Triple",
+  "license": "Apache-2.0"
+}
